@@ -1,7 +1,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <h1 align="center">Hi 👋, I'm Danujaya Liyanage</h1>
 <h4 align="center">An Undergraduate of University of Colombo School of Computing</h4>
-<img align="right" alt="Coding" width="35%" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<center><img align="right" alt="Coding" width="35%" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+</center><hr>
 <p align="left"> <a href="https://twitter.com/danujaya_s" target="blank"><img src="https://img.shields.io/twitter/follow/danujaya_s?logo=twitter&style=for-the-badge" alt="danujaya_s" /></a> </p>
 
 -   🌱 I’m currently learning **ReactJS , Python , C**
