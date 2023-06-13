@@ -8,7 +8,7 @@
 <hr>
 <p align="center"> <a href="https://twitter.com/danujaya_s" target="blank"><img src="https://img.shields.io/twitter/follow/danujaya_s?logo=twitter&style=for-the-badge" alt="danujaya_s" /></a> </p>
 
--   🌱 I’m currently learning **ReactJS , Python , C**
+-   🌱 I’m currently learning **ReactJS , C , R**
 
 -   📫 Reach me **danujaya.sandeepa@gmail.com**
 
