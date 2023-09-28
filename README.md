@@ -26,8 +26,6 @@
  <table>
  <tr>
  <td>
-<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danujaya00&show_icons=true&locale=en&layout=compact" alt="danujaya00" /></p>
+<p><img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danujaya00&show_icons=true&locale=en&layout=compact" alt="danujaya00" /></p>
 </td>
-<td>
-<p><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=danujaya00&" alt="danujaya00" /></p>
-</td></tr></table>
+</tr></table>
