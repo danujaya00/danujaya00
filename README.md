@@ -93,7 +93,7 @@
 
 ###
 
-<h4 align="center">Other Technologies</h4>
+<h4 align="center">Other Technologies & Tools</h4>
 
 ###
 
@@ -152,11 +152,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="75" height="25" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/danujaya00/danujaya00/output/snake.svg" alt="Snake animation" />
 
 ###
