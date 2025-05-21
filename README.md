@@ -3,22 +3,11 @@
 
 ###
 
-<p align="left">I'm a third-year information systems undergraduate at UCSC with a passion for technology and innovation , more interested in DevOps and software engineering areas and am open for work.</p>
+<p align="left">A Final-year undergraduate at the University of Colombo School of Computing, pursuing BSc.(Hons) in Information Systems. Specializing in DevOps, System Design, Systems Security, Cloud Architecture, and Distributed Systems. FinOps Certified Engineer with a focus on building scalable, secure, and cost efficient distributed systems having research interests in networking and Distributed Systems.</p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danujaya00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danujaya00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages Graph" />
-</div>
-
-<br clear="both">
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/danujaya00/count.svg?"  />
-</div>
+<div align="center"></div>
 
 ---
 
