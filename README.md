@@ -1,145 +1,110 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-<h2 align="left">Hi there, I'm Danujaya Liyanage 👋</h2>
+<h2 align="center">Hi, I'm Danujaya Liyanage 👋</h2>
 
-###
+<p align="center">
+  <b>Site Reliability Engineer @ WSO2</b> &nbsp;·&nbsp; Colombo, Sri Lanka
+</p>
 
-<p align="left">A Final-year undergraduate at the University of Colombo School of Computing, pursuing BSc.(Hons) in Information Systems. Specializing in DevOps, System Design, Systems Security, Cloud Architecture, and Distributed Systems. FinOps Certified Engineer with a focus on building scalable, secure, and cost efficient distributed systems having research interests in networking and Distributed Systems.</p>
+<p align="center">
+  I keep distributed systems up, observable, and affordable. </br>
+  FinOps Certified Engineer.
+</p>
 
-###
+<p align="center">
+  <a href="https://linktr.ee/danujayas00"><img src="https://img.shields.io/badge/Links-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  <a href="https://www.linkedin.com/in/danujayaliyanage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/21689334/danujaya-liyanage"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://x.com/danujaya_s"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:Danujayas00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### Tech Stack
+<div align="center">
+ <table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Languages</b><br/><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+    </td>
+    <td valign="top" width="50%">
+      <b>Cloud &amp; Containers</b><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Infrastructure as Code</b><br/><br/>
+      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+    </td>
+    <td valign="top">
+      <b>CI/CD &amp; GitOps</b><br/><br/>
+      <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
+      <img src="https://img.shields.io/badge/Flux-5468FF?style=flat-square&logo=flux&logoColor=white" alt="Flux" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+      <img src="https://img.shields.io/badge/Choreo-FF7300?style=flat-square&logo=wso2&logoColor=white" alt="Choreo" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Observability</b><br/><br/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+      <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
+      <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=flat-square&logo=jaeger&logoColor=black" alt="Jaeger" />
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
+    </td>
+    <td valign="top">
+      <b>Networking &amp; Service Mesh</b><br/><br/>
+      <img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white" alt="Istio" />
+      <img src="https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=black" alt="Cilium" />
+      <img src="https://img.shields.io/badge/Envoy-AC6199?style=flat-square&logo=envoyproxy&logoColor=white" alt="Envoy" />
+      <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Databases</b><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+    </td>
+    <td valign="top">
+      <b>App Layer</b><br/><br/>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+    </td>
+  </tr>
+ </table>
+</div>
+
 
 <div align="center"></div>
 
 ---
 
-### ⚙️ Tech Stack
+###  GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <h4 align="left">Programming Languages</h4>
-        <div align="left">
-           <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-           <img width="12" />
-           <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-           <img width="12" />
-           <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-           <img width="12" />
-           <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-           <img width="12" />
-           <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-           <img width="12" />
-           <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-           <img width="12" />
-           <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
-        </div>
-        <h4 align="left">Backend Development</h4>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-        </div>
-      </td>
-      <td valign="top">
-        <h4 align="right">Cloud Technologies</h4>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-            <img width="12" />
-            <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  />
-        </div>
-        <h4 align="right">Frontend Development</h4>
-        <div align="left">
-            <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-            <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-            <img width="12" />
-            <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-###
-
-<h4 align="center">Other Technologies & Tools</h4>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="30" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
-</div>
-
-
-###
+| Github Stats | Streak Stats |
+| --- | --- |
+| ![](https://github-readme-stats-fast.vercel.app/api?username=danujaya00&show_icons=false&theme=github_dark) | ![](https://github-readme-stats-fast.vercel.app/api/streak?username=danujaya00&theme=github_dark) |
 
 ---
-
-<p align="left">🔗 Connect with me</p>
-
-###
-
-<div align="center">
-  <a href="https://linktr.ee/danujayas00" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="75" height="25" alt="linktree logo"  />
-  </a>
-  <a href="www.linkedin.com/in/danujayaliyanage" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/danujaya_sandee1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="75" height="25" alt="hackerrank logo"  />
-  </a>
-  <a href="Danujayas00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="75" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21689334/danujaya-liyanage" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="75" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://x.com/danujaya_s" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="75" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-###
